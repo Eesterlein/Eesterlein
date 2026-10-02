@@ -1,5 +1,7 @@
 # Hi, I'm Elissa Esterlein
 
+### 🌄 Portfolio & resume: **[eesterlein.github.io](https://eesterlein.github.io/)**
+
 Data analyst and developer in Gunnison, Colorado. I work with property assessment data at the county level and build tools that make that data usable: interactive parcel maps, dashboards, a permit portal, and AI-assisted workflows for appraisal staff.
 
 **Focus:** SQL and data quality · GIS and spatial data · full-stack web apps · practical AI tools
@@ -9,7 +11,7 @@ Data analyst and developer in Gunnison, Colorado. I work with property assessmen
 | Project | What it is | Stack |
 |---|---|---|
 | [Gunnison County Assessor Map](https://github.com/Eesterlein/assessor-map) · [live](http://165.232.147.15) | Full-stack GIS platform: configurable layers, CSV/Excel joins to parcels, live wildfire detections | React, TypeScript, MapLibre, PostGIS, Docker |
-| [Land Attributes Dashboard](https://github.com/Eesterlein/gunnison-land-attributes) · [live](https://eesterlein.github.io/gunnison-land-attributes/) | Parcel map and review tool for land attributes, with an automated data pipeline | MapLibre, Python, GitHub Actions |
+| [Land Attributes Dashboard](https://github.com/Eesterlein/gunnison-land-attributes-demo) · [live](https://eesterlein.github.io/gunnison-land-attributes-demo/) | Parcel map and review tool for land attributes, with an automated data pipeline | MapLibre, Python, GitHub Actions |
 | [Building Stock Dashboard](https://github.com/Eesterlein/gunnison-building-stock) · [live](https://eesterlein.github.io/gunnison-building-stock/) | Analysis of 18,000+ county building records | JavaScript, SVG |
 | [Permit Portal](https://github.com/Eesterlein/gunnison-permit-portal) | Building-permit search and staff admin portal for four jurisdictions | React, Node/Express, PostgreSQL, AWS |
 | [Appraiser Photo Processor](https://github.com/Eesterlein/Appraiser-Photo-Processor) | Desktop app that classifies and renames field photos with GPS and Claude Vision | Python, Claude API |
@@ -26,6 +28,6 @@ Data analyst and developer in Gunnison, Colorado. I work with property assessmen
 
 ## Elsewhere
 
-[Tableau Public](https://public.tableau.com/app/profile/elissa.esterlein/vizzes) · [Kaggle](https://www.kaggle.com/elissaesterlein) · [Portfolio](https://github.com/Eesterlein/-data-analyst-portfolio)
+[Tableau Public](https://public.tableau.com/app/profile/elissa.esterlein/vizzes) · [Kaggle](https://www.kaggle.com/elissaesterlein) · [Portfolio site](https://eesterlein.github.io/)
 
 <sub>County-related projects here are independent work built from publicly available data. They are not official products of the Gunnison County Assessor's Office or Gunnison County.</sub>
