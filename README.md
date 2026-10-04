@@ -2,7 +2,7 @@
 
 ### Portfolio & resume: **[eesterlein.github.io](https://eesterlein.github.io/)**
 
-Data analyst and developer in Gunnison, Colorado. I build AI tools and automated data workflows that people use in their daily work. Most of that work is with property assessment data at the county level: interactive parcel maps, dashboards, a permit portal, and AI-assisted workflows for appraisal staff.
+Data analyst and developer in Gunnison, Colorado. I build AI tools and automated data workflows that people use in their daily work. 
 
 **Focus:** AI automation and LLM tools · SQL and data quality · GIS and spatial data · full-stack web apps
 
