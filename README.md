@@ -17,7 +17,7 @@ Data analyst and developer in Gunnison, Colorado. I build AI tools and automated
 | [Appraiser Photo Processor](https://github.com/Eesterlein/Appraiser-Photo-Processor) | Desktop app that classifies and renames field photos with GPS and Claude Vision | Python, Claude API |
 | [Property Eye](https://github.com/Eesterlein/gunnison-property-eye) | Satellite change detection to flag new construction (in development) | FastAPI, Earth Engine, PostGIS |
 | [Property Tax Calculator](https://github.com/Eesterlein/gunnison-county-property-tax-calculator) · [live](https://eesterlein.github.io/gunnison-county-property-tax-calculator/) | Educational estimator showing how values and mill levies become a tax bill | JavaScript |
-| [Who Owns Colorado?](https://github.com/Eesterlein/colorado-land-ownership) · [live](https://eesterlein.github.io/colorado-land-ownership/) | Public vs. private land ownership statewide, with a Gunnison County case study | Python, GeoPandas |
+| [AI Field Guide](https://github.com/Eesterlein/ai-field-guide) · [live](https://eesterlein.github.io/ai-field-guide/) | Interactive guide to AI concepts (agents, harnesses, context windows, MCP, RAG) with 20 hands-on demos | JavaScript, SVG |
 
 ## Tools
 
