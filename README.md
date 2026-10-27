@@ -15,7 +15,7 @@ Data analyst and developer in Gunnison, Colorado. I build AI tools and automated
 | [Building Stock Dashboard](https://github.com/Eesterlein/gunnison-building-stock) · [live](https://eesterlein.github.io/gunnison-building-stock/) | Analysis of 18,000+ county building records | JavaScript, SVG |
 | [Permit Portal](https://github.com/Eesterlein/gunnison-permit-portal) | Building-permit search and staff admin portal for four jurisdictions | React, Node/Express, PostgreSQL, AWS |
 | [Appraiser Photo Processor](https://github.com/Eesterlein/Appraiser-Photo-Processor) | Desktop app that classifies and renames field photos with GPS and Claude Vision | Python, Claude API |
-| [Property Eye](https://github.com/Eesterlein/gunnison-property-eye) | Satellite change detection to flag new construction (in development) | FastAPI, Earth Engine, PostGIS |
+| [Property Eye](https://github.com/Eesterlein/gunnison-property-eye) · [live](https://64.23.133.119.sslip.io) | Satellite change detection to flag new construction | FastAPI, Earth Engine, PostGIS |
 | [Property Tax Calculator](https://github.com/Eesterlein/gunnison-county-property-tax-calculator) · [live](https://eesterlein.github.io/gunnison-county-property-tax-calculator/) | Educational estimator showing how values and mill levies become a tax bill | JavaScript |
 | [AI Field Guide](https://github.com/Eesterlein/ai-field-guide) · [live](https://eesterlein.github.io/ai-field-guide/) | Interactive guide to AI concepts (agents, harnesses, context windows, MCP, RAG) with 20 hands-on demos | JavaScript, SVG |
 
